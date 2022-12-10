@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Behzad Saeedi
+- 👋 Hi, I’m Behzad Saeedi
 - 👀 I’m interested in Matlab, python, Robotics, Fuzzy Inference System(FIS)
 - 🌱 I’m currently Ph.D Candidate of Mechanical Engineering
 - 💞️ I’m looking to collaborate on ...
