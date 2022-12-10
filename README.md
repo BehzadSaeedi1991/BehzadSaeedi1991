@@ -2,7 +2,7 @@
 - 👀 I’m interested in Matlab, python, Robotics, Fuzzy Inference System(FIS)
 - 🌱 I’m currently Ph.D Candidate of Mechanical Engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: behzadsaeedi@modares.ac.ir
 
 <!---
 BehzadSaeedi1991/BehzadSaeedi1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
